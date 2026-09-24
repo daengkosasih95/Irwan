@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Kelayakan Tambang Batubara",
+  "description": "Simulator kelayakan tekno-ekonomi penambangan batubara komprehensif mencakup analisis NPV, IRR, sensitivitas harga, optimasi fleet alat berat, kepatuhan regulasi ESDM, dan ekspor laporan multi-format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
